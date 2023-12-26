@@ -71,7 +71,7 @@ const moviesList = [
       {
         id: 12,
           name: "Elite",
-          url: "https://seuladogeek.com.br/wp-content/uploads/2022/03/Elite-serie-poster.jpg"
+          url: "https://refstatic.sk/movie/3276c84c13b40a363e83.jpg?is=400x600c&c=2w&s=6408c487e6356cd9f4ec5b10f114db6419ad38de3f6f9d37ea9d963c4d897d16"
         },
 ];
 
